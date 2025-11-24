@@ -1,0 +1,10 @@
+# Core dependency for optional live API calls
+requests==2.32.3
+
+# Testing framework
+pytest==8.3.2
+
+# Code formatting and linting (optional but recommended)
+black==24.3.0
+ruff==0.5.7
+isort==5.12.0
