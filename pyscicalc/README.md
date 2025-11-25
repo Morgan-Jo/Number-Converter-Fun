@@ -28,7 +28,8 @@ Python 3.10 or later
 
 1. Clone or download the repository:
 
-git clone [https://github.com/Morgan-Jo/Number-Converter-Fun/pyscicalc.git]()
+git clone [https://github.com/Morgan-Jo/Number-Converter-Fun/pyscicalc.git](https://github.com/Morgan-Jo/Number-Converter-Fun/tree/main/pyscicalc)
 
+cd pyscicalc
 
 
